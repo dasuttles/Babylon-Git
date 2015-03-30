@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>mezopotamia.kmz</name>
+	<StyleMap id="msn_ylw-pushpin_copy:0_copy83">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy:0_copy83</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default_copy34">
+	</Style>
+	<Style id="default_copy31">
+	</Style>
+	<Style id="default00">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default_copy32">
+	</Style>
+	<Style id="sn_ylw-pushpin_copy96">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle id="khLineStyle590_copy6">
+			<color>ff00aa00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="khPolyStyle589_copy6">
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy18">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy7">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy13">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default_copy330">
+	</Style>
+	<Style id="sn_ylw-pushpin_copy9">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin_copy2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy60">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy16">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="khStyle536_copy12">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy20">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="default_copy36">
+	</Style>
+	<Style id="sn_ylw-pushpin_copy15">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy83">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy85">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy:0_copy1">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy17">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy89">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy22">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy19">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy95">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy12">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy11">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy84">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy4">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy87">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy:0_copy80">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy:0_copy80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin_copy00">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin_copy30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.1</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy8">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy2">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy:0_copy0">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy97">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy93">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle id="khLineStyle590_copy9">
+			<color>ff00aa00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle id="khPolyStyle589_copy9">
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy100">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy17">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin_copy9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin_copy9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin_copy2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default_copy35">
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy82">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin_copy:0_copy80">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Mezopotámia</name>
+		<open>1</open>
+		<LookAt id="khLookAt659">
+			<longitude>42.58738813142842</longitude>
+			<latitude>33.38280240010101</latitude>
+			<altitude>0</altitude>
+			<heading>-0.4404962755402618</heading>
+			<tilt>0</tilt>
+			<range>1116463.222413362</range>
+		</LookAt>
+		<Placemark>
+			<name>Valdosta 1, 3, 5, 6, 8</name>
+			<description><![CDATA[No. 1. $5.00. Found at Jokha, the ruin of the ancient city of Umma in Central Babylonia. An unusually perfect tablet of the average size containing an account of the delivery of some merchandise. The date is on the back and reads The year when Bur-Sin became the king. Bur-Sin was the king of Ur of the Chaldees about 2350 B.C., the date of the tablet.
+<img src="http://archives.valdosta.edu/babylon/img/tablets/tablet1_front.jpg"/>
+
+
+No. 3. $4.00. Found at Jokha. A receipt for 3 lambs and 17 kid goats, delivered on the 29th day of the month. On one edge is the numeral 30, the total number of the animals. The date is on the back about 2350 B.C.
+
+No. 5. $5.00. Found at Jokha. A very rare messenger tablet with a list of provisions supplied to the temple messenger for the journey, as bread, dates, oil, wine, etc. It was his expense allowance. The messenger tablets are very highly valued, for the writing upon them is finer and better than upon tablets of any other type. The date is along one edge, about 2350 B.C.
+
+No. 6. $4.00. Found at Jokha. This is a typical record of the temple offerings. After the tablet was written, and while the clay was still soft, the temple scribed rolled over the entire tablet his cylindrical stone seal, and the seal impression made it impossible to change the record. The seal impression bears the name of the scribe and of his father in raised characters, the seated figure of a deity and the standing figures of priests. The date is about 2350 B.C.
+
+No. 8. $3.00. Found at Jokha. A temple record, sealed and dated about 2350 B.C.]]></description>
+			<LookAt>
+				<longitude>45.91468938225799</longitude>
+				<latitude>31.63271939375328</latitude>
+				<altitude>0</altitude>
+				<heading>1.34874248467282</heading>
+				<tilt>0</tilt>
+				<range>33516.72500629521</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>45.8675746441189,31.63417661048605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Valdosta 2, 4, 7</name>
+			<description>No. 2. $5.00. Found at Drehem, a suburb of Nippur, where there was a receiving station for the temple of Bel. A very white burned clay tablet with a record of the animals presented to the temple for the offerings. It begins with : One lamb for the God Bel, one lamb for the Goddess Belit, presented by, ?, One lamb for the Goddess Nin-k-gal, etc. These offerings were made on the 21st day of the month. The date is in the last two lines, about 2350 B.C.
+
+No. 4. $3.00. Found at Drehem. A butchers bill for 1 she goat and 2 goats, killed for market, and delivered on the 26th day of the month. Dated about 2350 B.C.
+
+No. 7. $5.00. Found at Drehem. A temple record, sealed and dated about 2350 B.C.</description>
+			<LookAt>
+				<longitude>45.35520546169222</longitude>
+				<latitude>32.08189850739737</latitude>
+				<altitude>0</altitude>
+				<heading>1.047260932105661</heading>
+				<tilt>7.660969505012107</tilt>
+				<range>81100.48769128679</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>45.24356900294671,32.03564426690252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>Asszíria</name>
+			<description>http://en.wikipedia.org/wiki/Assyria</description>
+			<LookAt>
+				<longitude>43.36022799207375</longitude>
+				<latitude>34.80566562879402</latitude>
+				<altitude>0</altitude>
+				<heading>0.07524211400403662</heading>
+				<tilt>0</tilt>
+				<range>420980.4859847491</range>
+			</LookAt>
+			<Placemark>
+				<name>Dur-Sharrukin</name>
+				<description>Khorsabad
+http://en.wikipedia.org/wiki/Dur-Sharrukin</description>
+				<LookAt>
+					<longitude>43.22875673910279</longitude>
+					<latitude>36.51005980751746</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0888353173765549</heading>
+					<tilt>6.545340166386231e-012</tilt>
+					<range>526.7202061771865</range>
+				</LookAt>
+				<styleUrl>#khStyle536_copy12</styleUrl>
+				<Point>
+					<coordinates>43.229315249165,36.509537134293,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ninive</name>
+				<description>http://en.wikipedia.org/wiki/Ninive</description>
+				<LookAt>
+					<longitude>43.15135951747846</longitude>
+					<latitude>36.35945478395248</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03676224392963911</heading>
+					<tilt>0</tilt>
+					<range>1000.45784139976</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy18</styleUrl>
+				<Point>
+					<coordinates>43.15182978769971,36.35758139451281,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ninive falai</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								43.14150854384866,36.3673685905597,0 43.16923625916846,36.33682141599313,0 43.17879792274534,36.33643950787644,0 43.17322197029836,36.36114757942801,0 43.16699604532587,36.37215029473504,0 43.16042940487873,36.377686618491,0 43.14150854384866,36.3673685905597,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Imgur-Enlil (?)</name>
+				<description>Balawat
+http://en.wikipedia.org/wiki/Balawat</description>
+				<LookAt>
+					<longitude>43.41867856397067</longitude>
+					<latitude>36.22579922244186</latitude>
+					<altitude>0</altitude>
+					<heading>0.08109544933175253</heading>
+					<tilt>0</tilt>
+					<range>7519.596281835744</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy:0_copy85</styleUrl>
+				<Point>
+					<coordinates>43.41427864858784,36.22093292318134,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kalhu</name>
+				<description>Nimrud
+http://en.wikipedia.org/wiki/Kalhu</description>
+				<LookAt>
+					<longitude>43.32829491637011</longitude>
+					<latitude>36.09807458920928</latitude>
+					<altitude>0</altitude>
+					<heading>0.03789274849548092</heading>
+					<tilt>0</tilt>
+					<range>813.0802340245978</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy16</styleUrl>
+				<Point>
+					<coordinates>43.3274365491699,36.09928163192139,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Assur</name>
+				<description>http://en.wikipedia.org/wiki/Assur</description>
+				<LookAt>
+					<longitude>43.26072675621594</longitude>
+					<latitude>35.45738656953178</latitude>
+					<altitude>0</altitude>
+					<heading>-0.06982756771371874</heading>
+					<tilt>0</tilt>
+					<range>577.9292371961451</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy15</styleUrl>
+				<Point>
+					<coordinates>43.26181067219915,35.45804116100518,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Samarra</name>
+			<description>http://en.wikipedia.org/wiki/Samarra</description>
+			<LookAt>
+				<longitude>43.89001499926084</longitude>
+				<latitude>34.18812666547577</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6307524017113882</heading>
+				<tilt>2.514135706296723e-010</tilt>
+				<range>1164.663637689714</range>
+			</LookAt>
+			<styleUrl>#sn_ylw-pushpin_copy93</styleUrl>
+			<Point>
+				<coordinates>43.88915277777778,34.18658888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>Akkád</name>
+			<LookAt id="khLookAt606">
+				<longitude>44.66174096809223</longitude>
+				<latitude>32.71739183151981</latitude>
+				<altitude>0</altitude>
+				<heading>0.1628503889140965</heading>
+				<tilt>0</tilt>
+				<range>179221.1472754897</range>
+			</LookAt>
+			<Placemark>
+				<name>Dilbat (?)</name>
+				<LookAt>
+					<longitude>44.39320328250742</longitude>
+					<latitude>32.27892897764502</latitude>
+					<altitude>0</altitude>
+					<heading>-0.7651377805221983</heading>
+					<tilt>1.866609600930271e-010</tilt>
+					<range>514.5717525825714</range>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy7</styleUrl>
+				<Point>
+					<coordinates>44.3927387243308,32.27883698051245,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Borsippa</name>
+				<description>Birs Nimrud
+http://en.wikipedia.org/wiki/Borsippa</description>
+				<LookAt>
+					<longitude>44.34203213893836</longitude>
+					<latitude>32.39211788958745</latitude>
+					<altitude>0</altitude>
+					<heading>-0.2581852834707887</heading>
+					<tilt>1.05705090815398e-010</tilt>
+					<range>423.6058615106682</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy8</styleUrl>
+				<Point>
+					<coordinates>44.3413374202101,32.3917308833692,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kish (??)</name>
+				<description>Tell el-Uhaymir
+http://en.wikipedia.org/wiki/Kish_%28Sumer%29</description>
+				<LookAt>
+					<longitude>44.56766154106865</longitude>
+					<latitude>32.5621609091375</latitude>
+					<altitude>0</altitude>
+					<heading>-0.5063440789886384</heading>
+					<tilt>2.970989307605874e-010</tilt>
+					<range>13204.14809421896</range>
+				</LookAt>
+				<styleUrl>#default_copy31</styleUrl>
+				<Point>
+					<coordinates>44.54209238054921,32.57486573488258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Babilon</name>
+				<description>Babilu / Kadingirra, Etemenanki
+http://en.wikipedia.org/wiki/Babylon</description>
+				<LookAt>
+					<longitude>44.42967757605444</longitude>
+					<latitude>32.53637180571582</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1868266350548785</heading>
+					<tilt>2.805490505381851e-010</tilt>
+					<range>2937.042668828114</range>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy9</styleUrl>
+				<Point>
+					<coordinates>44.42097779597498,32.53637643724601,0</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Babilon (overlay)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>44.4224689724301</longitude>
+					<latitude>32.5376845254134</latitude>
+					<altitude>0</altitude>
+					<heading>4.390716492499292e-006</heading>
+					<tilt>1.492495882768711e-011</tilt>
+					<range>4040.019775986875</range>
+				</LookAt>
+				<color>42ffffff</color>
+				<Icon>
+					<href>http://www.newchronology.net/files/babylon_map.gif</href>
+				</Icon>
+				<LatLonBox id="khLatLonBox543_copy0">
+					<north>32.55090553692688</north>
+					<south>32.52444490937225</south>
+					<east>44.44061859430616</east>
+					<west>44.40436180465625</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Sippar</name>
+				<description>Zimbir / Abu Habba
+http://en.wikipedia.org/wiki/Sippar</description>
+				<LookAt>
+					<longitude>44.25310858502316</longitude>
+					<latitude>33.05911815264324</latitude>
+					<altitude>0</altitude>
+					<heading>-0.5461089351795571</heading>
+					<tilt>7.980111743370667e-011</tilt>
+					<range>1062.393460001853</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy100</styleUrl>
+				<Point>
+					<coordinates>44.252153346703,33.05883055555555,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sippar-Amnanum</name>
+				<description>Tell ed-Der</description>
+				<LookAt>
+					<longitude>44.29854900000002</longitude>
+					<latitude>33.10001200000001</latitude>
+					<altitude>0</altitude>
+					<heading>7.249629433087227e-015</heading>
+					<tilt>1.952128215362195e-011</tilt>
+					<range>1000.00085604215</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy11</styleUrl>
+				<Point>
+					<coordinates>44.29854900000002,33.10001200000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shaduppum</name>
+				<description>Tell Harmal</description>
+				<LookAt>
+					<longitude>44.4665436340912</longitude>
+					<latitude>33.30986050579738</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0001394303001077794</heading>
+					<tilt>6.618241621353393e-010</tilt>
+					<range>222.2544096425341</range>
+				</LookAt>
+				<styleUrl>#default_copy32</styleUrl>
+				<Point>
+					<coordinates>44.46696587050616,33.30956981642098,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dur-Kurigalzu</name>
+				<description>Aqa Quf
+http://en.wikipedia.org/wiki/Dur-Kurigalzu</description>
+				<LookAt>
+					<longitude>44.20296766776752</longitude>
+					<latitude>33.35350644632429</latitude>
+					<altitude>0</altitude>
+					<heading>-0.08083426155572394</heading>
+					<tilt>0</tilt>
+					<range>706.8818421950809</range>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:0_copy80</styleUrl>
+				<Point>
+					<coordinates>44.20223055555556,33.35361388888889,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eshnunna (?)</name>
+				<description>Tell Asmar
+http://en.wikipedia.org/wiki/Eshnunna</description>
+				<LookAt>
+					<longitude>44.96965239363645</longitude>
+					<latitude>33.61706436844182</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1989628966325985</heading>
+					<tilt>0</tilt>
+					<range>16131.11717478022</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy13</styleUrl>
+				<Point>
+					<coordinates>44.96965239363646,33.61706436844182,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sumer</name>
+			<description>Ki-en-gir
+http://en.wikipedia.org/wiki/Sumer</description>
+			<LookAt>
+				<longitude>45.81083191376934</longitude>
+				<latitude>31.22905318689272</latitude>
+				<altitude>0</altitude>
+				<heading>1.078275461247887</heading>
+				<tilt>0</tilt>
+				<range>126058.4084900265</range>
+			</LookAt>
+			<Placemark>
+				<name>(Bad-Tibira) (???)</name>
+				<description>Tell al-Madain
+http://en.wikipedia.org/wiki/Bad-tibira</description>
+				<LookAt>
+					<longitude>46.00112832996202</longitude>
+					<latitude>31.77232201442016</latitude>
+					<altitude>0</altitude>
+					<heading>0.486253883448394</heading>
+					<tilt>1.19754033573856e-010</tilt>
+					<range>8546.161575017457</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy:0_copy:0_copy0</styleUrl>
+				<Point>
+					<coordinates>46.00002251468391,31.76690877240411,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jemdet Nasr (?)</name>
+				<description>http://en.wikipedia.org/wiki/Jemdet_Nasr</description>
+				<LookAt>
+					<longitude>44.73648780492484</longitude>
+					<latitude>32.58453909629893</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1678912500478146</heading>
+					<tilt>9.900484606230498e-011</tilt>
+					<range>8209.082902603605</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy:0_copy89</styleUrl>
+				<Point>
+					<coordinates>44.73304998134046,32.58361777443233,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eridu</name>
+				<description>http://en.wikipedia.org/wiki/Eridu</description>
+				<LookAt id="khLookAt619_copy1">
+					<longitude>45.99722083948306</longitude>
+					<latitude>30.81109322439297</latitude>
+					<altitude>0</altitude>
+					<heading>8.369003053681102e-015</heading>
+					<tilt>0</tilt>
+					<range>4354.732376197491</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy60</styleUrl>
+				<Point id="khPoint629_copy1">
+					<coordinates>45.99607,30.81584000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="khPlacemark585">
+				<name>Ur</name>
+				<description>Zikkurat, Nanna temploma
+http://en.wikipedia.org/wiki/Ur</description>
+				<LookAt id="khLookAt586_copy0">
+					<longitude>46.10367608091733</longitude>
+					<latitude>30.96283095117913</latitude>
+					<altitude>0</altitude>
+					<heading>-1.08708730494204</heading>
+					<tilt>1.005455128109803e-010</tilt>
+					<range>290.1220510437514</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy96</styleUrl>
+				<Point id="khPoint594_copy0">
+					<coordinates>46.10302271884953,30.96263933848033,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Larsa</name>
+				<description>Tell as-Senkereh
+http://en.wikipedia.org/wiki/Larsa</description>
+				<LookAt>
+					<longitude>45.85304700000003</longitude>
+					<latitude>31.283975</latitude>
+					<altitude>0</altitude>
+					<heading>-1.241736764965192e-014</heading>
+					<tilt>0</tilt>
+					<range>1994.671381848893</range>
+				</LookAt>
+				<styleUrl>#default_copy330</styleUrl>
+				<Point>
+					<coordinates>45.85359277422036,31.28585037787524,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Uruk</name>
+				<description>Unug / Warka
+http://en.wikipedia.org/wiki/Uruk</description>
+				<LookAt id="khLookAt598">
+					<longitude>45.63735364922732</longitude>
+					<latitude>31.32297387882741</latitude>
+					<altitude>0</altitude>
+					<heading>1.303170992681099</heading>
+					<tilt>0</tilt>
+					<range>6895.187065332387</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy4</styleUrl>
+				<Point id="khPoint609">
+					<coordinates>45.63843211315566,31.32294061239971,0</coordinates>
+				</Point>
+			</Placemark>
+			<GroundOverlay>
+				<name>Uruk (overlay)</name>
+				<visibility>0</visibility>
+				<color>b2ffffff</color>
+				<Icon>
+					<href>http://www.newchronology.net/files/urukschematic.gif</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox>
+					<north>31.33707570294798</north>
+					<south>31.30947471871368</south>
+					<east>45.65297522050814</east>
+					<west>45.62383951014832</west>
+					<rotation>-0.9401960298197652</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<Placemark>
+				<name>Lagash</name>
+				<description>Sirpurla / Tell el-Hiba
+http://en.wikipedia.org/wiki/Lagash</description>
+				<LookAt>
+					<longitude>46.57857412301414</longitude>
+					<latitude>31.39025486420095</latitude>
+					<altitude>0</altitude>
+					<heading>0.9854458941651051</heading>
+					<tilt>1.025902849150583e-010</tilt>
+					<range>320.6529590782972</range>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy:0_copy83</styleUrl>
+				<Point>
+					<coordinates>46.57844161811667,31.3901100679213,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Girsu (?)</name>
+				<description>Telloh
+http://en.wikipedia.org/wiki/Girsu</description>
+				<LookAt>
+					<longitude>46.17974751996906</longitude>
+					<latitude>31.5627627243589</latitude>
+					<altitude>0</altitude>
+					<heading>0.01817849636927097</heading>
+					<tilt>3.145412586981873e-010</tilt>
+					<range>6414.437780672168</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy:0_copy87</styleUrl>
+				<Point>
+					<coordinates>46.17747093357313,31.55690405972738,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Umma (??)</name>
+				<description>Tell Jokha
+http://en.wikipedia.org/wiki/Umma</description>
+				<LookAt>
+					<longitude>45.86776878454719</longitude>
+					<latitude>31.63475568825945</latitude>
+					<altitude>0</altitude>
+					<heading>4.113282098611482e-007</heading>
+					<tilt>0</tilt>
+					<range>1001.2929953182</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy:0_copy82</styleUrl>
+				<Point>
+					<coordinates>45.86776878454719,31.63475568825945,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Suruppak</name>
+				<description>Tell Farah
+http://en.wikipedia.org/wiki/Shuruppak</description>
+				<LookAt>
+					<longitude>45.50858638487022</longitude>
+					<latitude>31.77812384919469</latitude>
+					<altitude>0</altitude>
+					<heading>1.056409288482027e-014</heading>
+					<tilt>4.083615498363147e-011</tilt>
+					<range>1054.11724808387</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy00</styleUrl>
+				<Point>
+					<coordinates>45.50944124971555,31.77825650148676,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Adab (?)</name>
+				<description>Bismaya
+http://en.wikipedia.org/wiki/Adab</description>
+				<LookAt>
+					<longitude>45.63025713099593</longitude>
+					<latitude>31.94296334825987</latitude>
+					<altitude>0</altitude>
+					<heading>0.0529895674300703</heading>
+					<tilt>1.474166864447643e-010</tilt>
+					<range>6367.932744151696</range>
+				</LookAt>
+				<styleUrl>#default_copy34</styleUrl>
+				<Point>
+					<coordinates>45.62704431545558,31.94533644244745,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Isin (??)</name>
+				<description>http://en.wikipedia.org/wiki/Isin</description>
+				<LookAt>
+					<longitude>45.17368123610113</longitude>
+					<latitude>31.93625581477949</latitude>
+					<altitude>0</altitude>
+					<heading>0.2825904354808704</heading>
+					<tilt>0</tilt>
+					<range>13135.4061175106</range>
+				</LookAt>
+				<styleUrl>#default_copy35</styleUrl>
+				<Point>
+					<coordinates>45.18870952417541,31.92151791576705,0</coordinates>
+				</Point>
+			</Placemark>
+			<Document>
+				<name>Nippur</name>
+				<open>1</open>
+				<StyleMap id="msn_ylw-pushpin_copy20">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#sn_ylw-pushpin_copy210</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#sh_ylw-pushpin_copy15</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="sh_ylw-pushpin_copy15">
+					<IconStyle>
+						<scale>1.18182</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+						</Icon>
+						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+					</IconStyle>
+				</Style>
+				<Style id="sn_ylw-pushpin_copy210">
+					<IconStyle>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+						</Icon>
+						<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+					</IconStyle>
+				</Style>
+				<GroundOverlay>
+					<name>Nippur Overlay 1</name>
+					<visibility>0</visibility>
+					<Icon>
+						<href>http://www.newchronology.net/files/nippur1.gif</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>32.1360069438232</north>
+						<south>32.11654908135458</south>
+						<east>45.24054573458682</east>
+						<west>45.2205572767324</west>
+						<rotation>-0.715433874224245</rotation>
+					</LatLonBox>
+				</GroundOverlay>
+				<GroundOverlay>
+					<name>Nippur Overlay 2</name>
+					<visibility>0</visibility>
+					<color>aaffffff</color>
+					<Icon>
+						<href>http://www.newchronology.net/files/nippur2.gif</href>
+						<viewBoundScale>0.75</viewBoundScale>
+					</Icon>
+					<LatLonBox>
+						<north>32.13519135741401</north>
+						<south>32.11670343582156</south>
+						<east>45.24179947893465</east>
+						<west>45.2180228278751</west>
+						<rotation>-0.9545283280193907</rotation>
+					</LatLonBox>
+				</GroundOverlay>
+				<Placemark>
+					<name>Nippur</name>
+					<description>Nibru
+http://en.wikipedia.org/wiki/Nippur</description>
+					<LookAt>
+						<longitude>45.23078533531251</longitude>
+						<latitude>32.12693857568549</latitude>
+						<altitude>0</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<range>5000</range>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin_copy20</styleUrl>
+					<Point>
+						<coordinates>45.23078533531251,32.12693857568549,0</coordinates>
+					</Point>
+				</Placemark>
+			</Document>
+		</Folder>
+		<Folder>
+			<name>Kelet-Szíria</name>
+			<Placemark>
+				<name>Mari</name>
+				<description>http://en.wikipedia.org/wiki/Mari%2C_Syria</description>
+				<LookAt>
+					<longitude>40.88707522387725</longitude>
+					<latitude>34.54846644012662</latitude>
+					<altitude>0</altitude>
+					<heading>-2.768595582553234</heading>
+					<tilt>1.901123969896005e-010</tilt>
+					<range>7550.174912131536</range>
+				</LookAt>
+				<styleUrl>#default00</styleUrl>
+				<Point>
+					<coordinates>40.88773548268827,34.5498239156635,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Urkesh</name>
+				<description>Tell Mozan
+http://en.wikipedia.org/wiki/Urkesh</description>
+				<LookAt>
+					<longitude>40.99724855458498</longitude>
+					<latitude>37.05718437274972</latitude>
+					<altitude>0</altitude>
+					<heading>1.059656540645371e-014</heading>
+					<tilt>3.574007987111171e-011</tilt>
+					<range>1040.707182734502</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy20</styleUrl>
+				<Point>
+					<coordinates>40.99724722222222,37.05718333333333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tell Hamoukar</name>
+				<description>http://en.wikipedia.org/wiki/Hamoukar</description>
+				<LookAt>
+					<longitude>41.96412747930773</longitude>
+					<latitude>36.81288439107581</latitude>
+					<altitude>0</altitude>
+					<heading>-0.228400169394657</heading>
+					<tilt>0</tilt>
+					<range>3151.351743322008</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy95</styleUrl>
+				<Point>
+					<coordinates>41.95590334330171,36.81201380266696,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tell Brak</name>
+				<description>Nagar
+http://en.wikipedia.org/wiki/Tell_Brak</description>
+				<LookAt>
+					<longitude>41.05913286174717</longitude>
+					<latitude>36.66764767019711</latitude>
+					<altitude>0</altitude>
+					<heading>-1.861418463948598e-015</heading>
+					<tilt>1.080708041092935e-010</tilt>
+					<range>806.7938151075613</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy19</styleUrl>
+				<Point>
+					<coordinates>41.0585004463334,36.6673683842703,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tell Halaf (?)</name>
+				<description>R&apos;as al &apos;Ayn közelében
+http://en.wikipedia.org/wiki/Tell_Halaf</description>
+				<LookAt>
+					<longitude>40.07239673511592</longitude>
+					<latitude>36.83504217440781</latitude>
+					<altitude>0</altitude>
+					<heading>-1.364017581802725</heading>
+					<tilt>2.291915902049109e-011</tilt>
+					<range>5004.543089114763</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy:0</styleUrl>
+				<Point>
+					<coordinates>40.06906704109511,36.83978785122955,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Edessa</name>
+				<description>Osroe / Orrha / Justinopolis / Sanliurfa
+http://en.wikipedia.org/wiki/Edessa%2C_Mesopotamia</description>
+				<LookAt>
+					<longitude>38.80280378878129</longitude>
+					<latitude>37.16161052739768</latitude>
+					<altitude>0</altitude>
+					<heading>-2.1236984868828</heading>
+					<tilt>4.090304763212285e-011</tilt>
+					<range>5301.074807646761</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy97</styleUrl>
+				<Point>
+					<coordinates>38.78186666666667,37.16787777777778,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dura-Europos</name>
+				<description>http://en.wikipedia.org/wiki/Dura-Europos</description>
+				<LookAt>
+					<longitude>40.73235706858515</longitude>
+					<latitude>34.74552775046279</latitude>
+					<altitude>0</altitude>
+					<heading>-0.006622134873419022</heading>
+					<tilt>1.95415225730301e-011</tilt>
+					<range>3945.799108930111</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy:0_copy2</styleUrl>
+				<Point>
+					<coordinates>40.73053775048535,34.74694497896724,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Karkemish</name>
+				<LookAt>
+					<longitude>38.01613932474293</longitude>
+					<latitude>36.82891877952041</latitude>
+					<altitude>0</altitude>
+					<heading>1.05090425694972e-014</heading>
+					<tilt>1.383998664759001e-011</tilt>
+					<range>1026.349740294132</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy22</styleUrl>
+				<Point>
+					<coordinates>38.01613932474293,36.82891877952041,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>egyéb</name>
+			<Placemark>
+				<name>(Arbil)</name>
+				<description>http://en.wikipedia.org/wiki/Arbil</description>
+				<LookAt>
+					<longitude>44.0091396572424</longitude>
+					<latitude>36.19130825004519</latitude>
+					<altitude>0</altitude>
+					<heading>1.621832399730305e-008</heading>
+					<tilt>8.198919439785117e-012</tilt>
+					<range>4523.462582480411</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy17</styleUrl>
+				<Point>
+					<coordinates>44.0091396572424,36.19130825004519,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hatra</name>
+				<description>al-Hadr, parthus város
+http://en.wikipedia.org/wiki/Hatra</description>
+				<LookAt>
+					<longitude>42.71856844272608</longitude>
+					<latitude>35.59022991843933</latitude>
+					<altitude>0</altitude>
+					<heading>-3.34338148857606</heading>
+					<tilt>1.914687313773258e-011</tilt>
+					<range>1671.272405267971</range>
+				</LookAt>
+				<styleUrl>#default_copy36</styleUrl>
+				<Point>
+					<coordinates>42.71836762467268,35.58800163876768,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>(Hit)</name>
+				<LookAt>
+					<longitude>42.82444257889961</longitude>
+					<latitude>33.64363366112287</latitude>
+					<altitude>0</altitude>
+					<heading>-0.7604706628040726</heading>
+					<tilt>0</tilt>
+					<range>645.4453045514516</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy:0_copy84</styleUrl>
+				<Point>
+					<coordinates>42.82407949563915,33.64365668770846,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Seleucia</name>
+				<description>http://en.wikipedia.org/wiki/Seleucia_on_the_Tigris</description>
+				<LookAt>
+					<longitude>44.51740264683085</longitude>
+					<latitude>33.13377495300561</latitude>
+					<altitude>0</altitude>
+					<heading>-0.00186874544710415</heading>
+					<tilt>6.363656865166736e-011</tilt>
+					<range>349.5449463391063</range>
+				</LookAt>
+				<styleUrl>#sn_ylw-pushpin_copy:0_copy:0_copy1</styleUrl>
+				<Point>
+					<coordinates>44.51723341303179,33.13365837296168,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ctesiphon</name>
+				<description>Tyspwn / al-Madain, parthus és szaszanida város
+http://en.wikipedia.org/wiki/Ctesiphon</description>
+				<LookAt>
+					<longitude>44.58082667769588</longitude>
+					<latitude>33.09331519763121</latitude>
+					<altitude>0</altitude>
+					<heading>-7.069160519651274e-014</heading>
+					<tilt>1.78677753870281e-010</tilt>
+					<range>407.8910029919438</range>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin_copy12</styleUrl>
+				<Point>
+					<coordinates>44.58098371297339,33.09373276037292,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Map overlays</name>
+			<visibility>0</visibility>
+			<GroundOverlay>
+				<name>Mesopotamia Map</name>
+				<visibility>0</visibility>
+				<color>87ffffff</color>
+				<Icon>
+					<href>http://sjhigh.nbed.nb.ca/sullivan/SocialStudies10/SocialStudies10/Unit2/NIPPUR_files/image001.gif</href>
+					<viewBoundScale>0.75</viewBoundScale>
+				</Icon>
+				<LatLonBox id="khLatLonBox562">
+					<north>36.64901663204933</north>
+					<south>29.88451181681088</south>
+					<east>48.832594313252</east>
+					<west>40.18602280718957</west>
+					<rotation>-1.222953375018717</rotation>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Upper Tigris Map</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>45.659778388376</longitude>
+					<latitude>35.81459242867241</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3295028354864217</heading>
+					<tilt>3.641016047276908e-014</tilt>
+					<range>742180.113282567</range>
+				</LookAt>
+				<Icon>
+					<href>http://users.ox.ac.uk/%7Ewolf0126/upper-tigris.jpg</href>
+				</Icon>
+				<LatLonBox>
+					<north>38.65237698</north>
+					<south>33.0109092</south>
+					<east>48.04893852</east>
+					<west>42.71733077</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Upper Euphrates Map</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>41.18113116439478</longitude>
+					<latitude>35.82365873052692</latitude>
+					<altitude>0</altitude>
+					<heading>-1.755908015543969</heading>
+					<tilt>5.864945248007676e-014</tilt>
+					<range>743471.0132613623</range>
+				</LookAt>
+				<Icon>
+					<href>http://users.ox.ac.uk/%7Ewolf0126/upper-euphrates.jpg</href>
+				</Icon>
+				<LatLonBox>
+					<north>38.62100303</north>
+					<south>33.16576831</south>
+					<east>43.28474499000001</east>
+					<west>38.1790104</west>
+				</LatLonBox>
+			</GroundOverlay>
+			<GroundOverlay>
+				<name>Lower Mesopotamia Map</name>
+				<visibility>0</visibility>
+				<LookAt id="khLookAt690">
+					<longitude>46.59845217022451</longitude>
+					<latitude>31.1981584358422</latitude>
+					<altitude>0</altitude>
+					<heading>-1.214455188913563e-014</heading>
+					<tilt>1.686094163279661e-013</tilt>
+					<range>582834.5664636939</range>
+				</LookAt>
+				<Icon>
+					<href>http://users.ox.ac.uk/%7Ewolf0126/lower-mesopotamia.jpg</href>
+				</Icon>
+				<LatLonBox id="khLatLonBox692">
+					<north>33.27480538</north>
+					<south>29.00523664</south>
+					<east>49.55669301</east>
+					<west>43.35322051</west>
+				</LatLonBox>
+			</GroundOverlay>
+		</Folder>
+		<Placemark>
+			<name>Valdosta 9</name>
+			<description>No. 9. $3.00. Found at Senkereh, the Biblical Elassar mentioned in Genesis 14:1. This is a sun dried first dyhasty [sic] tablet or business contract, from the age of Hammurabi, King of Babylon about 2200 B.C. He was the Hammurabi of the Bible, a contemporary of Abraham. This tablet is rare. Few tablets from this dynasty are well preserved.</description>
+			<LookAt>
+				<longitude>46.12424226599014</longitude>
+				<latitude>31.50871412424818</latitude>
+				<altitude>0</altitude>
+				<heading>1.529517213942371</heading>
+				<tilt>1.867693997742865</tilt>
+				<range>507660.2764482751</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>45.853611,31.28583333333334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Valdosta 10</name>
+			<description>No. 10. $3.00. Found at Babylon. This is a late or neo-Babylonian contract tablet or business document of the usual form. It is sun-dried. It is dated on the back, and the date bears the name of Nabonidus, King of Babylon from 555 to 538 B.C. He was the last king of Babylon before the fall of the city to Cyrus. The tablet was written sometime between these two dates.</description>
+			<LookAt>
+				<longitude>46.25837911580738</longitude>
+				<latitude>31.41250815626473</latitude>
+				<altitude>0</altitude>
+				<heading>1.678303189128573</heading>
+				<tilt>1.427012580481062</tilt>
+				<range>478626.7898416131</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>44.42083333333333,32.53638888888889,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

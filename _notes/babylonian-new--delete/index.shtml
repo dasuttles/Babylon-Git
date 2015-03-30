@@ -1,0 +1,48 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Untitled Document</title>
+<link href="boilerplate.css" rel="stylesheet" type="text/css">
+<link href="/baby-style.css" rel="stylesheet" type="text/css">
+<!-- 
+To learn more about the conditional comments around the html tags at the top of the file:
+paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+Do the following if you're using your customized build of modernizr (http://www.modernizr.com/):
+* insert the link to your js here
+* remove the link below to the html5shiv
+* add the "no-js" class to the html tags at the top
+* you can also remove the link to respond.min.js if you included the MQ Polyfill in your modernizr build 
+-->
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="respond.min.js"></script>
+</head>
+<body>
+<div class="gridContainer clearfix">
+<div id="header">
+<img src="">
+<h1>Valdosta State University</h1>
+<h2>Babylonian Clay Tablets</h2>
+</div>
+  <div id="content">
+<p>Dr. Richard Holmes Powell, first president of South Georgia State Normal College (now Valdosta State University), acquired ten Babylonian clay tablets for the school's students to study.  The tablets, which are roughly 1.5" square, are imprinted with Cuneiform writing and are indicative of daily record-keeping in ancient Mesopotamia.  They were purchased in 1920 from archaeologist and antiquities dealer Edgar J. Banks at a total cost of $40.  Banks provided translations for each tablet, along with his personal guarantee regarding their authenticity.</p>
+ 
+	<p>Local legend has it that Powell purchased or arranged for the purchase of the tablets while he was on leave from the college serving abroad in the Red Cross in 1918.  However, no evidence has yet been found to substantiate that Powell's Red Cross service was even overseas, or as to the connection between him and Banks.</p>
+ 
+	<p>The tablets were wrapped in tissue paper and shipped in a wooden box.  Tablets numbered one through eight are in excellent condition; however, tablet number nine has been reduced to fragments and dust, and tablet number ten is very worn and fragile.  A penciled notation on the box top reads, "#10 sundried, in poor condition," and in his letter, Banks notes that, "The sun dried tablets are seldom well preserved."  It is unknown as to how tablet number nine was destroyed; either by shipping or after coming to the college.</p>
+ 
+	<p>Edgar J. Banks was a lesser-known archaeologist and did much of his work in the early 20th century.  In 1900, Banks applied for and eventually received permission from Ottoman authorities to dig in the modern-day city of Bismya, Iraq, site of the ancient city of Adab.  It is likely that the tablets similar to the ones owned by VSU were acquired are from this area; however, he also purchased tablets from workers at other sites. Many of Banks' Babylonian tablets are owned by academic institutions and museums across America, including The University of Utah, the University of Minnesota, South Dakota State University and the Science Museum of Minnesota.  According to Banks' biographer, Ewa Wasilewska, "he imported at least 11,000 such relics to the United States, and some estimates suggest the number may have been as many as 175,000 pieces."  VSU is fortunate to be among the institutions that own a collection of Banks' Babylonian clay tablets.</p>
+ 
+	<p>This page presents VSU's collection of tablets.  The thumbnail of each tablet is linked to a page with a complete front, back, and side view of the tablet, along with "a translation" by Banks himself, really more of a summary of where it was found and what it might contain. The tablets have been translated by Dr. Cale Johnson, cuneiform scholar of UCLA, and may be found in the Cuneiform Digital Library Bulletin. In addition to translations, the article will explain the significance of some of the tablet names or places.  Further information on Banks' summary translations can be found in the correspondence below related to the tablets.</p> </div>
+</div>
+</body>
+</html>
